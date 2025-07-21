@@ -7,7 +7,7 @@ This project fine-tunes the GPT-2 model for generating quotes using the [Abirate
 - Fine-tunes GPT-2 to generate quote-style outputs
 - Uses LoRA (Low-Rank Adaptation) for robust parameter-efficient training
 - Evaluates model performance using perplexity
-- Saves and loads fine-tuned models and configuration for easy reuse
+- Saves and loads trained fine-tuned models and configuration for easy reuse
 
 ## How to Run
 
