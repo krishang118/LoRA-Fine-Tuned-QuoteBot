@@ -1,5 +1,5 @@
 # GPT-2 QuoteBot Fine-Tuning with LoRA (PEFT)
-
+ 
 This project fine-tunes the GPT-2 model for generating quotes, using the [Abirate/english_quotes](https://huggingface.co/datasets/Abirate/english_quotes) dataset. It leverages Parameter-Efficient Fine-Tuning (PEFT) with LoRA adapters for efficient training and inference.
 
 ## Features
